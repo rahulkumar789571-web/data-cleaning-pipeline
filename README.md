@@ -13,6 +13,4 @@ This tool helps you clean `object`, `float`, and `integer` columns and handle mi
 - 🕳️ **Null handling** → Replace missing values (`NaN`) with user-defined values  
 - 📦 Organized in a reusable **class (`DataCleaner`)** that can be imported as a module  
 
----
 
-## 📦 Installation
